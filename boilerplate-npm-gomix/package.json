@@ -2,6 +2,11 @@
   "name": "fcc-learn-npm-package-json",
   "author": "pgrn",
   "description": "first-backend-tut",
+  "keywords": [
+    "tutorial",
+    "backend",
+    "node"
+  ],
   "dependencies": {
     "express": "^4.17.1"
   },
