@@ -1,8 +1,9 @@
 {
   "name": "fcc-learn-npm-package-json",
   "author": "pgrn",
+  "description": "first-backend-tut",
   "dependencies": {
-    "express": "^4.14.0"
+    "express": "^4.17.1"
   },
   "main": "server.js",
   "scripts": {
